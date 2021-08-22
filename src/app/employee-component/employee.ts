@@ -3,4 +3,5 @@ export interface IEmployee {
   code: string;
   name: string;
   salary: number;
+  starRating: number;
 }
